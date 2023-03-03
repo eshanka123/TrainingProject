@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuitDemo2,,,,2023-03-03 14:07:14,2023-03-03 14:07:17,3.125s,FAILED
+,,,,,,,
+Test Cases/Demo/Record Mode,,,,2023-03-03 14:07:14,2023-03-03 14:07:17,2.898s,FAILED
+"openBrowser("""")",,,,2023-03-03 14:07:15,2023-03-03 14:07:17,2.630s,FAILED
